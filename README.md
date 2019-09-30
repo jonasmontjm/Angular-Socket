@@ -1,4 +1,4 @@
-# Basico
+# Aplicación en Angular con servidor REST-SOCKET_angular Curso Angular-Node
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
